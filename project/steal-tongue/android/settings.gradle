@@ -1,0 +1,7 @@
+include ':app'
+
+include ':zen-app'
+project(':zen-app').projectDir = new File(settingsDir,   '../../../source/visual/zen-app/android/')
+include ':zen-utils'
+project(':zen-utils').projectDir = new File(settingsDir, '../../../source/platfrom/zen-utils/android/')
+

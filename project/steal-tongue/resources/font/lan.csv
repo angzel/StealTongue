@@ -1,0 +1,24 @@
+_ID,EN,CN,TCN
+initializing,Initializing...,初始化...,初始化...
+upgrade,TO PRO,升级,升級
+setting,OPTION,设置,設置
+custom,CUSTOM,定制,定制
+about,ABOUT,关于,關於
+bg,Background,背景,背景
+drum,Drum Style,鼓型,鼓型
+tongue,Keys Style,音键,音鍵
+voice,Sounds,音色,音色
+pad,Keyboards,界面,界面
+this-is-a-trial,This is a trial version!,这是一个试用版，升级以使用全部功能！,這是一個試用版，升級以使用全部功能！
+back,Back,返回,返回
+ok,Confirm,确认,確認
+upgrade-now,Upgrade,现在升级,現在升級
+restore,Restore,恢复购买,恢復購買
+upgrade-text,"Get Pro Now, Only $%.2f",现在升级，仅需￥%d元！,現在升級，僅需$%.2f
+if-restore,"If you have bought a pro version, just",如您已经购买，可在此进行恢复,如您已經購買，可在此進行恢復
+no-save,This is a trial version! All settings will not be saved.,当前是试用版，您的设置不会被保存。,當前是試用版，您的設置不會被保存。
+custom-help,Select a TUNE then touch the DRUM to reset,点选一个音调，然后点击鼓面来重新设定。
+upgraded,You have got the Pro Version.,您已经成功获取高级版！
+version,"Steel Tongue Drum
+Current Version: v1.0","钢舌鼓
+当前版本:v1.0"
